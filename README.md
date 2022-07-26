@@ -2,7 +2,7 @@
 
 > Fast interface building for react
 
-[![NPM](https://img.shields.io/npm/v/rs-base-component.svg)](https://www.npmjs.com/package/rs-base-component) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com) [![Node.js Package](https://github.com/tdduydev/rs-base-framework/actions/workflows/npm-publish.yml/badge.svg)](https://github.com/tdduydev/rs-base-framework/actions/workflows/npm-publish.yml)
+[![NPM](https://img.shields.io/npm/v/rs-base-component.svg)](https://www.npmjs.com/package/rs-base-component) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com) [![Node.js Package](https://github.com/tdduydev/rs-base-framework/actions/workflows/action.yml/badge.svg)](https://github.com/tdduydev/rs-base-framework/actions/workflows/npm-publish.yml)
 
 
 ## Install
