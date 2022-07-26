@@ -1,6 +1,6 @@
 # rs-base-component
 
-> Made with create-react-library
+> Fast interface building for react
 
 [![NPM](https://img.shields.io/npm/v/rs-base-component.svg)](https://www.npmjs.com/package/rs-base-component) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
 
