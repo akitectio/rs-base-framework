@@ -18,7 +18,7 @@ jobs:
           node-version: 16
       - run: npm install -g npm
       - run: npm i --legacy-peer-deps
-      - run: npm ci
+      - run: npm ci --legacy-peer-deps
       - run: npm test
 
   publish-npm:
@@ -32,7 +32,7 @@ jobs:
           registry-url: https://registry.npmjs.org/
       - run: npm install -g npm
       - run: npm i --legacy-peer-deps
-      - run: npm ci
+      - run: npm ci --legacy-peer-deps
       - run: npm publish
         env:
           NODE_AUTH_TOKEN: ${{secrets.npm_token}}
