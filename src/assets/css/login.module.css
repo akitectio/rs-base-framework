@@ -1,0 +1,44 @@
+.imageBg {
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 100vh;
+}
+
+.rowForm {
+  margin-top:10%;
+}
+
+.title {
+  font-size: 30px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: center;
+  color: #7b7b7b;
+  text-transform: uppercase;
+  margin-bottom: 5%;
+}
+
+.form {
+  margin: 0 auto;
+  width: 50%;
+  height: 300px;
+}
+
+.input {
+  border-radius: 15px;
+  height: 44px;
+}
+
+.textInput {
+  font-size: 14px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  letter-spacing: normal;
+  text-align: left;
+  color: #4b4b4b;
+}

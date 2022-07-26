@@ -7,7 +7,7 @@
 ## Install
 
 ```bash
-npm install --save rs-base-component
+npm install --save @tdduydev/rs-base-component
 ```
 
 ## Usage
@@ -15,8 +15,8 @@ npm install --save rs-base-component
 ```jsx
 import React, { Component } from 'react'
 
-import MyComponent from 'rs-base-component'
-import 'rs-base-component/dist/index.css'
+import MyComponent from '@tdduydev/rs-base-component'
+import '@tdduydev/rs-base-component/dist/index.css'
 
 class Example extends Component {
   render() {

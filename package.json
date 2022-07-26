@@ -52,6 +52,8 @@
     "dist"
   ],
   "dependencies": {
-    "autoprefixer": "^10.4.7"
+    "autoprefixer": "^10.4.7",
+    "bootstrap": "^5.2.0",
+    "react-bootstrap": "^2.4.0"
   }
 }

@@ -1,10 +1,10 @@
 import React from 'react'
 
-import { ExampleComponent } from 'rs-base-component'
-import 'rs-base-component/dist/index.css'
+import { Pages } from '@tdduydev/rs-base-component'
+import '@tdduydev/rs-base-component/dist/index.css'
 
 const App = () => {
-  return <ExampleComponent text="Create React Library Example 😄" />
+  return <Pages.Login text="Create React Library Example 😄" />
 }
 
 export default App
