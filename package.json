@@ -1,8 +1,17 @@
 {
   "name": "@tdduydev/rs-base-component",
   "version": "0.0.1",
-  "description": "Made with create-react-library",
-  "author": "DUY TRAN <tdduy.dev@gmail.com>",
+  "description": "fast interface building for react",
+  "author": "JONY TRAN <tdduy.dev@gmail.com> (https://github.com/tdduydev)",
+  "repository": "https://github.com/tdduydev/rs-base-framework",
+  "bugs": {
+    "url": "https://github.com/tdduydev/rs-base-framework/issues"
+  },
+  "homepage": "https://github.com/tdduydev/rs-base-framework#readme",
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/",
+    "access": "public"
+  },
   "license": "MIT",
   "main": "dist/index.js",
   "module": "dist/index.modern.js",
@@ -46,13 +55,13 @@
     "prettier": "^2.0.4",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
-    "react-scripts": "^5.0.1"
+    "react-scripts": "^5.0.1",
+    "autoprefixer": "^10.4.7"
   },
   "files": [
     "dist"
   ],
   "dependencies": {
-    "autoprefixer": "^10.4.7",
     "bootstrap": "^5.2.0",
     "react-bootstrap": "^2.4.0"
   }
