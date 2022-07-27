@@ -1,0 +1,19 @@
+name: Version Increment
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  version:
+    runs-on: ubuntu-latest
+    if: "!startsWith(github.event.head_commit.message, '[RELEASE]')"
+    steps:
+      - uses: actions/checkout@v2
+        with:
+          token: ${{ secrets.GH_TOKEN }}
+      - run: git config --global user.name 'DUY TRAN'
+      - run: git config --global user.email 'tdduydev@gmail.com'
+      - run: npm version patch -m "[RELEASE] %s"
+      - run: git push
