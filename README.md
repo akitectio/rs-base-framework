@@ -4,7 +4,6 @@
 
 [![NPM](https://img.shields.io/npm/v/@tdduydev/rs-base-framework)](https://www.npmjs.com/package/@tdduydev/rs-base-framework) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com) [![Node.js Package](https://github.com/tdduydev/rs-base-framework/actions/workflows/action.yml/badge.svg)](https://github.com/tdduydev/rs-base-framework/actions/workflows/npm-publish.yml)
 
-
 ## Install
 
 ```bash
