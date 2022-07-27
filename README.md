@@ -8,7 +8,7 @@
 ## Install
 
 ```bash
-npm install --save @tdduydev/rs-base-component
+npm install --save @tdduydev/rs-base-framework
 ```
 
 ## Usage
@@ -16,7 +16,7 @@ npm install --save @tdduydev/rs-base-component
 ```jsx
 import React, { Component } from 'react'
 
-import { Pages } from '@tdduydev/rs-base-component'
+import { Pages } from '@tdduydev/rs-base-framework'
 
 class Example extends Component {
   render() {
