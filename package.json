@@ -1,6 +1,6 @@
 {
   "name": "@tdduydev/rs-base-framework",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "fast interface building for react",
   "author": "JONY TRAN <tdduy.dev@gmail.com> (https://github.com/tdduydev)",
   "repository": "https://github.com/tdduydev/rs-base-framework",
@@ -55,13 +55,13 @@
     "prettier": "^2.0.4",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
-    "react-scripts": "^5.0.1",
-    "autoprefixer": "^10.4.7"
+    "react-scripts": "^5.0.1"
   },
   "files": [
     "dist"
   ],
   "dependencies": {
+    "autoprefixer": "^9.0.0",
     "bootstrap": "^5.2.0",
     "react-bootstrap": "^2.4.0"
   }
