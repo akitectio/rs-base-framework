@@ -16,7 +16,7 @@ npm install --save @tdduydev/rs-base-component
 ```jsx
 import React, { Component } from 'react'
 
-import {Pages} from '@tdduydev/rs-base-component'
+import { Pages } from '@tdduydev/rs-base-component'
 
 class Example extends Component {
   render() {
@@ -35,10 +35,10 @@ MIT © [](https://github.com/)
 <!-- prettier-ignore -->
 | [<img src="https://avatars.githubusercontent.com/u/18380121?s=40&v=4" width="75px;"/><br /><sub><b>DUY TRAN</b></sub>](https://www.linkedin.com/in/duydev/)<br />[💻](https://github.com/tdduydev "Code") [🤔](#ideas-jadjoubran "Ideas, Planning, & Feedback") |
 | :---: | :---: | :---: | :---: | :---: | :---: |
+
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
 - [HIEU PHAM](https://github.com/trunghieu2607)
 - [VIET PHAN](https://github.com/PhanViett)
 - [DAT NGUYEN](https://github.com/ThanhDat0810)
 - [QUAN NGUYEN](https://github.com/Stromlungdanh)
-
